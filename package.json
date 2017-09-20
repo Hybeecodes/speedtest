@@ -1,0 +1,22 @@
+{
+  "name": "speed-test",
+  "version": "1.0.0",
+  "description": "a command line application used for speed test ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megastar98/speedtest.git"
+  },
+  "author": "obikoya ibiniyi",
+  "license": "ISC",
+  "bin": {
+    "sayHello": "app.js"
+  },
+  "bugs": {
+    "url": "https://github.com/megastar98/speedtest/issues"
+  },
+  "homepage": "https://github.com/megastar98/speedtest#readme"
+}

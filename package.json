@@ -13,10 +13,15 @@
   "author": "obikoya ibiniyi",
   "license": "ISC",
   "bin": {
-    "sayHello": "app.js"
+    "speedtest": "app.js"
   },
   "bugs": {
     "url": "https://github.com/megastar98/speedtest/issues"
   },
-  "homepage": "https://github.com/megastar98/speedtest#readme"
+  "homepage": "https://github.com/megastar98/speedtest#readme",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "progress": "^2.0.0",
+    "speedtest-net": "^1.3.1"
+  }
 }
